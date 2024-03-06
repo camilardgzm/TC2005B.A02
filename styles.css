@@ -214,7 +214,8 @@ aside a{
 
   
 .table-section{
-  width: 100%;
+  width: 95%;
+  margin: 0 auto;
 
 }
 
@@ -664,9 +665,15 @@ footer a{
   }
 
 
- 
+
 }
 
+@media screen and (max-width: 768px){
+  footer a {
+    font-size: 10px;
+  }
+
+}
 
 
 
