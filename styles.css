@@ -262,7 +262,7 @@ aside a{
   @media (max-width: 768px) {
 
     table{
-      margin-top: -170px;
+      margin-top: -150px;
     }
     th, td {
       padding: 5px; /* Reduce el padding para ahorrar espacio */
